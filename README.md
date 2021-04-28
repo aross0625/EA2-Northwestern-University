@@ -1,2 +1,2 @@
-# EA2 Northwestern University
- Collection of programs from Engineering Analysis II
+# Engineering Analysis 2
+ Collection of programs from Engineering Analysis II at Northwestern University
